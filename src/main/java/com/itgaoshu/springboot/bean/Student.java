@@ -18,6 +18,29 @@ public class Student implements Serializable {
     private double scose;
     private int isd;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     public Integer getStuid() {
         return stuid;
     }
