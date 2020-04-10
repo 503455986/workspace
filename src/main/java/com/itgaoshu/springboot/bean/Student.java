@@ -13,7 +13,7 @@ public class Student implements Serializable {
 
     @Id
     @GeneratedValue(generator = "JDBC")
-    private Integer stuid=1111;
+    private Integer stuid=11111;
     private String stuname;
     private double scose;
 
